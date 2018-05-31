@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-image: url("images/Elegant_Background-19.jpg");
+  opacity: 0.3;
 }
 
 h1 {
