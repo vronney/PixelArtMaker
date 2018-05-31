@@ -1,7 +1,10 @@
 body {
   text-align: center;
   background-image: url("images/Elegant_Background-19.jpg");
-  filter: opacity(opacity: 30%);
+}
+
+body::after {
+  opacity: 0.3;
 }
 
 h1 {
