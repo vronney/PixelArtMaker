@@ -9,3 +9,6 @@
 - user able to click on cell and fill with the predefined color
 
 *The use of makeGrid() needed to be demonstrated.*
+
+### Click to play
+https://vronney.github.io/PixelArtMaker/
